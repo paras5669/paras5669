@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source project**
 
-- 💬 Ask me about **Node.js , React**
+- 💬 Ask me about **Node.js , React , Flutter , Golang**
 
 - 📫 How to reach me **paras.a.developer@gmail.com**
 
